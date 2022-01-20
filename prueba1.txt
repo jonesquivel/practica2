@@ -1,4 +1,8 @@
 Contenido de prueba uno ejercicio bootcamp.
 
 
+
 Agregando contenido para el merge con conflicto
+
+Nueva línea en prueba1.txt
+
